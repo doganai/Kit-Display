@@ -15,4 +15,4 @@ This program displays a GUI. To add extra features please contact me.
 ### Who do I talk to? ###
 
 John Dogan
-l0sm3n@gmail.com
+john@foundationai.org
